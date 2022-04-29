@@ -5,7 +5,7 @@ public class skillDemoTest {
     
     @Test
     public void testEnlarge(){
-        assertEquals(30, skillDemo.enlarge(2));
+        assertEquals(20, skillDemo.enlarge(2));
     }
 
 }
